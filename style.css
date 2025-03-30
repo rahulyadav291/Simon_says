@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+  }
+  
+  .btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 2.5rem;
+  }
+  
+  .btn-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .red {
+    background-color: #d95980;
+  }
+  
+  .yellow {
+    background-color: #f99b45;
+  }
+  
+  .green {
+    background-color: #63aac0;
+  }
+  
+  .purple {
+    background-color: #b581f9;
+  }
+  
+  .flash {
+    background-color: white;
+  }
+  
+  .userFlash {
+    background-color: green;
+  }
+  
+  #score-display {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  

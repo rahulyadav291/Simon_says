@@ -24,4 +24,4 @@ A classic memory game built with **HTML**, **CSS**, and **JavaScript**. The goal
 ## 📂 How to Run
 Simply clone the repository or download the ZIP file:
 ```bash
-git clone https://github.com/rahulyadav291/Simon_says/edit/main/README.md
+git clone https://github.com/rahulyadav291/Simon_says
